@@ -1,0 +1,74 @@
+wine-backend/HELP.md
+wine-backend/target/
+!wine-backend/.mvn/wrapper/maven-wrapper.jar
+!wine-backend/**/src/main/**/target/
+!wine-backend/**/src/test/**/target/
+
+### STS ###
+wine-backend/.apt_generated
+wine-backend/.classpath
+wine-backend/.factorypath
+wine-backend/.project
+wine-backend/.settings
+wine-backend/.springBeans
+wine-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+wine-backend/.idea
+wine-backend/*.iws
+wine-backend/*.iml
+wine-backend/*.ipr
+
+### NetBeans ###
+wine-backend/nbproject/private/
+wine-backend/nbbuild/
+wine-backend/dist/
+wine-backend/nbdist/
+wine-backend/.nb-gradle/
+wine-backend/build/
+!wine-backend/**/src/main/**/build/
+!wine-backend/**/src/test/**/build/
+
+### VS Code ###
+wine-backend/.vscode/
+wine-backend/logs/
+wine-backend/ant-backup.xml
+wine-backend/.editorconfig
+wine-backend/config/
+wine-backend/just-test/
+
+### VS Code ###
+wine-frontend/.vscode/
+wine-frontend/logs/
+wine-frontend/.editorconfig
+
+# dependencies
+wine-frontend/node_modules
+wine-frontend/.pnp
+wine-frontend/.pnp.js
+
+# testing
+wine-frontend/coverage
+
+# production
+wine-frontend/build
+
+# misc
+wine-frontend/.DS_Store
+wine-frontend/.env.local
+wine-frontend/.env.development.local
+wine-frontend/.env.test.local
+wine-frontend/.env.production.local
+
+wine-frontend/npm-debug.log*
+wine-frontend/yarn-debug.log*
+wine-frontend/yarn-error.log*
+
+wine-frontend/ckeditor5-37.1.0-home2
+wine-frontend/ckeditor5-38.1.0
+
+ignoreDir
+
+# node_modules
+# # build.xml
+# !wine-frontend/build
